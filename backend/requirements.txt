@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
+sentence-transformers
+python-dotenv
+openai
+nltk
+tiktoken
+llmlingua
